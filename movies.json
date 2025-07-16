@@ -14,5 +14,13 @@
     "overview": "Un thriller oscuro donde un detective debe desentrañar una red de crímenes en una metrópolis corrupta antes de que sea demasiado tarde para él mismo.",
     "backdrop_path": "https://image.tmdb.org/t/p/original/en971MEXui9diirXlogOrPKmsEn.jpg",
     "logo_path": "https://image.tmdb.org/t/p/original/zXyTWeQemn7yfvHLrEWWENkJzmT.png"
+  },
+  {
+    "id": 286217,
+    "customPosterPath": "https://image.tmdb.org/t/p/original/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+    "title": "The Martian (2015)",
+    "overview": "Un hombre despierta de un coma y descubre que alguien ha usurpado su identidad y que nadie (ni siquiera su esposa) le cree. Con la ayuda de una joven, se propone demostrar su identidad.",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/79s02GrDGZcdrinqvi8SlYqzV50.jpg",
+    "logo_path": "https://image.tmdb.org/t/p/original/fNPckRkKV2eJJtnDPbinDY92CX2.png"
   }
 ]
